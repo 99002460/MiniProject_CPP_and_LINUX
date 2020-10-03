@@ -22,4 +22,4 @@ jobs:
     - name: valgrindcheck  
       run: chmod a+x all.out
     - name: valgrindcheck1  
-      run: valgrind ./all.out
+      run: valgrind ./3_Implementation/all.out
