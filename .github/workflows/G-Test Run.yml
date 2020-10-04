@@ -13,6 +13,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-
+    - name: gtest-permission
+      run: chmod a+x ./3_Implementation/all.out 
     - name: gtest
       run: ./3_Implementation/all.out 
