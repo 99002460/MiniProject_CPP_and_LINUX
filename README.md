@@ -1,4 +1,4 @@
-# MiniProject_CPP_and_LINUX
+# MiniProject CPP and Linux
 
 | Build | GTest | Code Quality | Valgrind | CppCheck |
 |-|-|-|-|-|
