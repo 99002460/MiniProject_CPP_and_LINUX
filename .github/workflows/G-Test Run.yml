@@ -1,4 +1,4 @@
-name: Gtest
+name: Unit Test(Gtest)
 
 on:
   push:
